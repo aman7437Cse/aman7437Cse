@@ -1,5 +1,7 @@
 ## Hi I am Aman Gupta 👋
 
+
+##🚀 Full Stack Developer | 💻 Computer Science Engineering Student
 <!--
 **aman7437Cse/aman7437Cse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
