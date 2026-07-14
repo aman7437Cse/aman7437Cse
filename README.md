@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi I am Aman Gupta 👋
 
 <!--
 **aman7437Cse/aman7437Cse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
