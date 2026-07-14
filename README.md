@@ -2,8 +2,8 @@
 
 <img src="./ChatGPT Image Jul 14, 2026 at 12_07_18 PM.png" width="100%" alt="Aman Banner"/>
 
-## I'm Aman Gupta
+## Aman Gupta
 
 
-### 🚀 Front End Developer |  💻
+### 🚀 Frontend Developer | Backend Developer | UI/UX Designer | Software Developer | MERN Stack Developer 💻
 
