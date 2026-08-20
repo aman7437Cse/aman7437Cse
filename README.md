@@ -93,7 +93,7 @@ class Aman:
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=aman7437gupta&bg_color=0d1117&color=16a34a&line=16a34a&point=22c55e&area=true&hide_border=false&border_color=16a34a&title_color=ffffff" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=aman7437cse&bg_color=0d1117&color=16a34a&line=16a34a&point=22c55e&area=true&hide_border=false&border_color=16a34a&title_color=ffffff" />
 
 </div>
 
