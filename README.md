@@ -79,9 +79,9 @@ class Aman:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aman7437cse&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&border_color=16a34a&icon_color=16a34a&title_color=ffffff&text_color=9ca3af&hide_border=false&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aman7437Cse&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&border_color=16a34a&icon_color=16a34a&title_color=ffffff&text_color=9ca3af&hide_border=false&count_private=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman7437cse&layout=compact&theme=chartreuse-dark&bg_color=0d1117&border_color=16a34a&title_color=ffffff&text_color=9ca3af&hide_border=false" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman7437Cse&layout=compact&theme=chartreuse-dark&bg_color=0d1117&border_color=16a34a&title_color=ffffff&text_color=9ca3af&hide_border=false" />
 
 <br/>
 
@@ -93,7 +93,7 @@ class Aman:
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=aman7437cse&bg_color=0d1117&color=16a34a&line=16a34a&point=22c55e&area=true&hide_border=false&border_color=16a34a&title_color=ffffff" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=aman7437Cse&bg_color=0d1117&color=16a34a&line=16a34a&point=22c55e&area=true&hide_border=false&border_color=16a34a&title_color=ffffff" />
 
 </div>
 
