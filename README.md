@@ -79,23 +79,13 @@ class Aman:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aman7437Cse&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&border_color=16a34a&icon_color=16a34a&title_color=ffffff&text_color=9ca3af&hide_border=false&count_private=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman7437Cse&layout=compact&theme=chartreuse-dark&bg_color=0d1117&border_color=16a34a&title_color=ffffff&text_color=9ca3af&hide_border=false" />
-
-<br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=aaryaj154&theme=dark&background=0d1117&border=16a34a&stroke=16a34a&ring=16a34a&fire=22c55e&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=16a34a&sideLabels=9ca3af&dates=6b7280" />
 
 </div>
 
-## 📊 My Contribution Graph
 
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=aman7437Cse&bg_color=0d1117&color=16a34a&line=16a34a&point=22c55e&area=true&hide_border=false&border_color=16a34a&title_color=ffffff" />
-
-</div>
 
 ---
 
